@@ -21,7 +21,7 @@ External tools/resources used:
   ● https://sketchfab.com/3d-models/cup-7d450bb714034fceaa7b59a0e564f46b
 
 QUICK LINKS TO VIDEOS:
-Part 1: -----
+Part 1: https://youtu.be/8AVglNeMqZQ
 Part 2: https://youtu.be/nFhB7vQT_wM
 Part 3: DNF
 
